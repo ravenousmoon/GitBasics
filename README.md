@@ -163,27 +163,42 @@
 
 <h2> <b> 16.	Видалення тегу oops </b> </h2>
 
-16.1.	Видаляємо тег `oops`. [(Скріншот)](Screenshots/16.png) <br></br>
+16.1. Видаляємо тег <b>oops</b>.  
+<p align="left"> <img src="Screenshots/16.png" alt="Зображення 16"/> </p>  
 
 <h2> <b> 17.	Внесення змін до комітів </b> </h2>
 
 17.1.	Зміна сторінки, а потім виконання коміту: <br></br>
-ㅤ•  Додаємо в `hello.html` коментар автора. [(Скріншот)](Screenshots/17.1.а.png) <br></br>
-ㅤ•  Виконуємо коміт. [(Скріншот)](Screenshots/17.1.б.png) <br></br>
-17.2.	Додаємо в `hello.html` e-mail. [(Скріншот)](Screenshots/17.2.png) <br></br>
-17.3.	Змінюємо попередній коміт. [(Скріншот)](Screenshots/17.3.png) <br></br>
-17.4.	Переглянемо історію. [(Скріншот)](Screenshots/17.4.png) <br></br>
+ㅤ•  Додаємо в <b>hello.html</b> коментар автора.
+<p align="left"> <img src="Screenshots/17.1.а.png" alt="Зображення 17.1.а"/> </p>
+ㅤ•  Виконуємо коміт.
+<p align="left"> <img src="Screenshots/17.1.б.png" alt="Зображення 17.1.б"/> </p>
+17.2. Додаємо в <b>hello.html</b> e-mail.
+<p align="left"> <img src="Screenshots/17.2.png" alt="Зображення 17.2"/> </p>
+17.3. Змінюємо попередній коміт.
+<p align="left"> <img src="Screenshots/17.3.png" alt="Зображення 17.3"/> </p>
+17.4. Переглянемо історію.
+<p align="left"> <img src="Screenshots/17.4.png" alt="Зображення 17.4"/> </p>
 
 <h2> <b> 18.	Створення гілки </b> </h2>
 
-18.1.	Створюємо гілку. [(Скріншот)](Screenshots/18.1.png) <br></br>
-18.2.	Додавання файлу стилів `style.css`: <br></br>
-ㅤ•  Створюємо файл `style.css`. [(Скріншот команди](Screenshots/18.2.а.png) [та результату створення файлу)](Screenshots/18.2.б.png) <br></br>
-ㅤ•  В створеному файлі додаємо колір до `HTML`-тегу з текстом вітання нашого сайту. [(Скріншот)](Screenshots/18.2.в.png) <br></br>
-ㅤ•  Виконуємо коміт. [(Скріншот)](Screenshots/18.2.г.png) <br></br>
-18.3.	Зміна `hello.html` для того, щоб використовувати `style.css`: <br></br>
-ㅤ•  В файлі `hello.html` додаємо посилання на `style.css` для стилізації сторінки. [(Скріншот)](Screenshots/18.3.а.png) <br></br>
-ㅤ•  Виконуємо коміт. [(Скріншот)](Screenshots/18.3.б.png) <br></br>
+18.1.	Створюємо гілку.
+<p align="left"> <img src="Screenshots/18.1.png" alt="Зображення 18.1"/> </p>
+18.2.	Додавання файлу стилів <b>style.css</b>: <br></br>
+ㅤ•  Створюємо файл <b>style.css</b>. <br></br>
+Скріншот команди:
+<p align="left"> <img src="Screenshots/18.2.а.png" alt="Зображення 18.2.а"/> </p>
+Скріншот результату створення файлу:
+<p align="left"> <img src="Screenshots/18.2.б.png" alt="Зображення 18.2.б"/> </p> 
+ㅤ•  В створеному файлі додаємо колір до <b>HTML</b>-тегу з текстом вітання нашого сайту.
+<p align="left"> <img src="Screenshots/18.2.в.png" alt="Зображення 18.2.в"/> </p>
+ㅤ•  Виконуємо коміт.
+<p align="left"> <img src="Screenshots/18.2.г.png" alt="Зображення 18.2.г"/> </p>
+18.3.	Зміна <b>hello.html</b> для того, щоб використовувати <b>style.css</b>: <br></br>
+ㅤ•  В файлі <b>hello.html</b> додаємо посилання на <b>style.css</b> для стилізації сторінки.
+<p align="left"> <img src="Screenshots/18.3.а.png" alt="Зображення 18.3.а"/> </p>
+ㅤ•  Виконуємо коміт.
+<p align="left"> <img src="Screenshots/18.3.б.png" alt="Зображення 18.3.б"/> </p>
   
 <h2> <b> 19.	Перемикання гілок </b> </h2>
 
